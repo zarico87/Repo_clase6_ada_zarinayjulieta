@@ -3,3 +3,7 @@
 //a juli no le reconocia el usuario ni mail pero lo pudimos resolver
 // a mi (zary)cuando hice el git clone no se me pisaron unos archivos
 //asique voy a borrarlos asi quedan los que deben ser
+// tuve mucha ayuda de Zary , hicimos por comandos la conexion al repo remoto. Al escribirlos no los tomaba
+//hay muchas acciones entre consigna y consigna que son desconocidas para mi, por suerte Zary me guio
+// despues de crear la rama me encuentro con inconvenientes para actualizar los cambios de este archivo 
+// la rama fue creada con exito
