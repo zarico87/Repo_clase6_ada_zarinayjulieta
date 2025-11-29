@@ -1,0 +1,5 @@
+//tuvimos conflictos de como unir gitbash con github
+// pero los resolvimos en parte usando chatgt subiendo las capturas.
+//a juli no le reconocia el usuario ni mail pero lo pudimos resolver
+// a mi (zary)cuando hice el git clone no se me pisaron unos archivos
+//asique voy a borrarlos asi quedan los que deben ser
